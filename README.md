@@ -1,8 +1,8 @@
 #### azure_demo_lz ####
 
-# Terraform Provision (Azure & Az DLS)
-# https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs
-# https://registry.terraform.io/modules/Azure/avm-res-storage-storageaccount/azurerm/latest/examples/data_lake_gen2
+#### Terraform Provision (Azure & Az DLS)
+#### https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs
+#### https://registry.terraform.io/modules/Azure/avm-res-storage-storageaccount/azurerm/latest/examples/data_lake_gen2
 
 #### Installing Azure CLI & Terraform modules using Powershell ####
 
